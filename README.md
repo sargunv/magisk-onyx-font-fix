@@ -4,6 +4,8 @@ By default, Onyx devices have a fonts.xml with the primary `sans-serif` set to s
 
 This tweak fixes the problem by replacing `system/etc/fonts.xml` with [a version](./onyx-font-fix/system/etc/fonts.xml) that eliminates RobotoFake, and sets the fallback font family as the new `sans-serif` default. The rest of the font settings remain the same as before.
 
+Tested on a Leaf 2 with firmware v3.3.1. 
+
 ## Installation
 
 Root your device, head to the [releases page](https://github.com/sargunv/magisk-onyx-font-fix/releases), download the latest `onyx-font-fix.zip`, and install the module with Magisk Manager.
