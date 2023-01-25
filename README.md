@@ -6,7 +6,7 @@ This tweak fixes the problem by replacing `system/etc/fonts.xml` with [a version
 
 ## Installation
 
-Root your device, head to the [releases page](https://github.com/sargunv/magisk-onyx-font-fix/releases), download the latest onyx-font-fix.zip, and install the module with Magisk Manager.
+Root your device, head to the [releases page](https://github.com/sargunv/magisk-onyx-font-fix/releases), download the latest `onyx-font-fix.zip`, and install the module with Magisk Manager.
 
 ## Example
 
